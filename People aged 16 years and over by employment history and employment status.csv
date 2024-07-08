@@ -1,0 +1,19 @@
+Employment History,Employment status,Population estimate,Percentage within employment status,Percentage within employment history
+"No, have never worked",Unemployed,314525,18.8,5.9
+"Yes, but not in the last 12 months",Unemployed,599100,35.8,4.7
+"Yes, in the last 12 months",Unemployed,761555,45.5,27.9
+"No, have never worked",Economically Inactive - Student,1633495,59.6,30.8
+"Yes, but not in the last 12 months",Economically Inactive - Student,471810,17.2,3.7
+"Yes, in the last 12 months",Economically Inactive - Student,635325,23.2,23.3
+"No, have never worked",Economically Inactive - Looking After Family/Home,680095,29.3,12.8
+"Yes, but not in the last 12 months",Economically Inactive - Looking After Family/Home,1328385,57.3,10.4
+"Yes, in the last 12 months",Economically Inactive - Looking After Family/Home,308860,13.3,11.3
+"No, have never worked",Economically Inactive - Long-term Sick or Disabled,760055,37.5,14.3
+"Yes, but not in the last 12 months",Economically Inactive - Long-term Sick or Disabled,1197520,59.1,9.4
+"Yes, in the last 12 months",Economically Inactive - Long-term Sick or Disabled,68050,3.4,2.5
+"No, have never worked",Economically Inactive - Retired,1440215,13.7,27.2
+"Yes, but not in the last 12 months",Economically Inactive - Retired,8667410,82.4,67.9
+"Yes, in the last 12 months",Economically Inactive - Retired,406090,3.9,14.9
+"No, have never worked",Economically Inactive - Other,471580,31,8.9
+"Yes, but not in the last 12 months",Economically Inactive - Other,498760,32.8,3.9
+"Yes, in the last 12 months",Economically Inactive - Other,549870,36.2,20.1
